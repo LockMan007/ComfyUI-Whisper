@@ -1,3 +1,11 @@
+# 10/13/2026
+
+- Added multi-line for captions.
+- Added a delay function to keep text on screen longer.
+- Be sure to change font.
+- Settings I like: White, Black, 4, Roboto-regular, 60, 200, 550, true, false, 24, 4.0
+
+
 # ComfyUI Whisper
 
 Transcribe audio and add subtitles to videos using [Whisper](https://github.com/openai/whisper/) in [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
