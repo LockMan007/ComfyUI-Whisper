@@ -3,7 +3,7 @@
 - Added multi-line for captions.
 - Added a delay function to keep text on screen longer.
 - Be sure to change font.
-- Settings I like: White, Black, 4, Roboto-regular, 60, 200, 550, true, false, 24, 4.0
+- Settings I like for 0.4mp 1:1 aspect ratio: White, Black, 4, Roboto-regular, 60, 200, 550, true, false, 24, 4.0
 
 
 # ComfyUI Whisper
